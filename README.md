@@ -1,6 +1,6 @@
 # Hi, I'm Riya Gupta 👋
 
-### Software Developer | Problem Solver | AI & Backend Development Enthusiast
+### Software Developer | Problem Solver | AI & Backend Development
 
 I'm a Computer Science undergraduate who enjoys building practical software applications, solving problems with code, and exploring backend development and AI-powered systems.
 
@@ -87,18 +87,6 @@ An automation project integrating with the Zerodha Kite ecosystem to explore tra
   <img
     src="https://streak-stats.demolab.com?user=riya29004&theme=tokyonight&hide_border=true"
     alt="GitHub contribution streak"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=riya29004&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub contribution activity graph"
-    width="100%"
   />
 </p>
 
